@@ -9,6 +9,6 @@ public class SampleController {
 	 @GetMapping("/Hello")
 	public String getData()
 	{
-		return "Kalpana";
+		return "Chandra";
 	}
 }
